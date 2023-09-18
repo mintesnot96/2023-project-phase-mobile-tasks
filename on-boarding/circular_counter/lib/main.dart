@@ -83,7 +83,6 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
               boxHeight: 200.0,
               boxWidth: 200,
-
             ),
 
             SizedBox(
