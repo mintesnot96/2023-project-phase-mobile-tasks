@@ -16,7 +16,7 @@ Add two buttons labeled "Increment" and "Decrement" below the counter text.
 Implement Increment and Decrement:
 Implement the logic to increment the counter when the "Increment" button is tapped and decrement the counter when the "Decrement" button is tapped.
 
-	Grading system:
+	
 
 Circular Counter Logic:
 Add logic to ensure that the counter value remains within the circular range of 0 to 10. When the counter reaches 10 and the "Increment" button is tapped, the counter should reset to 0. Similarly, when the counter is at 0 and the "Decrement" button is tapped, the counter should reset to 10.
