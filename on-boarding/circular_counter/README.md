@@ -1,25 +1,6 @@
 # Circular counter
 
 Task: Circular Counter App
-In this task, you will create a Circular Counter App using Flutter to practice fundamental widgets, state management, and implementing a circular counter logic.
-Instructions:
-Design the UI:
-Design a simple user interface with a centered text displaying the counter value and two buttons, one for incrementing the counter and the other for decrementing it.
-Widget Selection:
-Choose appropriate widgets to implement the UI design. Use text widgets, containers, buttons, and stateful widgets to represent the counter.
-Counter Logic:
-Create a stateful widget that holds the counter value. Initialize the counter to 0.
-Display Counter:
-Display the counter value in the center of the screen using a text widget.
-Increment and Decrement Buttons:
-Add two buttons labeled "Increment" and "Decrement" below the counter text.
-Implement Increment and Decrement:
-Implement the logic to increment the counter when the "Increment" button is tapped and decrement the counter when the "Decrement" button is tapped.
-
-	
-
-Circular Counter Logic:
-Add logic to ensure that the counter value remains within the circular range of 0 to 10. When the counter reaches 10 and the "Increment" button is tapped, the counter should reset to 0. Similarly, when the counter is at 0 and the "Decrement" button is tapped, the counter should reset to 10.
 
 
 Screen_recording link
